@@ -56,23 +56,6 @@ The analysis uses the following datasets:
 
 ---
 
-## 🔍 Data Cleaning
-
-The following preprocessing steps were performed:
-
-- Removed invalid guest records
-- Detected and removed revenue outliers
-- Handled missing values
-- Corrected invalid booking records
-- Converted data into suitable formats for analysis
-
----
-
-## ⚙️ Feature Engineering
-
-A new feature, **Occupancy Percentage**, was created using successful bookings and hotel capacity to better analyze hotel performance.
-
----
 
 ## 📈 Exploratory Data Analysis
 
