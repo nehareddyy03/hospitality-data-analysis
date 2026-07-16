@@ -20,7 +20,7 @@ The insights derived from this analysis can help improve pricing strategies, roo
 
 ---
 
-## 📂 Dataset
+## 📂 Data
 
 The analysis uses the following datasets:
 
