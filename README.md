@@ -133,6 +133,5 @@ jupyter notebook
 
 **Neha Reddy**
 
-If you found this project useful or have suggestions for improvement, feel free to connect or share your feedback.
 
 ---
